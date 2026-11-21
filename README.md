@@ -7,4 +7,8 @@ Until then, the source repository is private.
 
 ## Reporting bugs
 
-Use the **Issues** tab on this repository to report bugs or request features.
+Use the **Issues** tab on this repository to report bugs.
+
+## Feature Requests
+
+Use the **Discussions** tab to request features and discuss the project.
